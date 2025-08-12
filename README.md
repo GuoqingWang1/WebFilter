@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/GuoqingWang1/WebFilter">
+  <a href="https://arxiv.org/pdf/2508.07956">
     <img src="https://img.shields.io/badge/Paper-blue?style=for-the-badge" alt="Button1"/>
   </a>
   <a href="https://github.com/GuoqingWang1/WebFilter">
@@ -33,8 +33,8 @@
 <p align="center"> <img src="images/WebFilter.png" id="webfilter-framework">       </p>
 
 ## 🔥News
-- [2025.8.11] 🎉 We’ve made our Git repository public.
-<!-- - [2025.8.12] 🎉 Our WebFilter paper is now available on [arXiv](). -->
+- [2025.8.12] 🎉 We’ve made our Git repository public.
+- [2025.8.12] 🎉 Our WebFilter paper is now available on [arXiv](https://arxiv.org/pdf/2508.07956).
 <!-- - [2025.8.12] 🎉 WebFilter-7B is now live on [Hugging Face Hub](https://huggingface.co/dayll/WebFilter-7B).  -->
 
 
