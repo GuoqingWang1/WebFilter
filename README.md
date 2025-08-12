@@ -33,8 +33,8 @@
 <p align="center"> <img src="images/WebFilter.png" id="webfilter-framework">       </p>
 
 ## 🔥News
-- [2025.8.12] 🎉 We’ve made our Git repository public.
-- [2025.8.12] 🎉 Our WebFilter paper is now available on [arXiv](https://arxiv.org/pdf/2508.07956).
+- [2025.8.12] 🎉 Our code repository is now open to everyone!  
+- [2025.8.12] 🎉 WebFilter is live on [arXiv](https://arxiv.org/pdf/2508.07956) — check it out!
 <!-- - [2025.8.12] 🎉 WebFilter-7B is now live on [Hugging Face Hub](https://huggingface.co/dayll/WebFilter-7B).  -->
 
 
