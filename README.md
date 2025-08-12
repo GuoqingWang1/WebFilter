@@ -142,6 +142,9 @@ Step 1: Choose a Reward Function
 Retrieval-precision Reward (RR) mode uses a larger, more powerful pretrained LLM to evaluate both the quality of results and the retrieval process.
 To enable it, run:
 ```bash
+conda create -n rrm_server --clone webfilter 
+conda activate rrm_server
+pip install vllm==0.8.5
 bash run_llm.sh
 ```
 
