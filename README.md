@@ -73,10 +73,10 @@ In addition to the intuitive performance gains across a wide range of benchmarks
 
 ## 🤖 Model
 Comming soon...
- <!-- WebFilter is now live on Hugging Face Hub — you’re welcome to explore it anytime:
+ WebFilter is now live on Hugging Face Hub — you’re welcome to explore it anytime:
 | Model Name | HF Checkpoint                                                | Size                                                    |
 | ---------- | ------------------------------------------------------------ | :------: |
-| WebFilter-7b     | [🤗 dayll/WebFilter-7B](https://huggingface.co/dayll/WebFilter-7B) | **7B**  -->
+| WebFilter-7b     | [🤗 dayll/WebFilter-7B](https://huggingface.co/dayll/WebFilter-7B) | **7B** 
 
 
 
