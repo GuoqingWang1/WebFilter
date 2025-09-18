@@ -195,12 +195,10 @@ Grateful beyond words to the incredible contributors who made this project spark
 
 ## ✍️ Citation
 ```bash
-@misc{webfilter,
- title={Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning}, 
-      author={Yuqin Dai and Shuo Yang and Guoqing Wang and Yong Deng and Zhanwei Zhang and Jun Yin and Pengyu Zeng and others},
-      year={2025},
-      eprint={2508.07956},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2508.07956}
+@article{dai2025careful,
+  title={Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning},
+  author={Dai, Yuqin and Yang, Shuo and Wang, Guoqing and Deng, Yong and Zhang, Zhanwei and Yin, Jun and Zeng, Pengyu and Ying, Zhenzhe and Meng, Changhua and Yi, Can and others},
+  journal={arXiv preprint arXiv:2508.07956},
+  year={2025}
 }
 ```
