@@ -71,6 +71,34 @@ system_prompt: |-
   Government websites: gov.cn # Chinese official information sources
   Educational websites: edu.cn # Chinese academic institutions
 
+  ### Trusted Search Platforms ###
+  Wikipedia: wikipedia.org          # Global knowledge repository
+  Government websites: gov.cn
+  Educational websites:
+    - edu.cn
+    - *.edu
+  Fact-checking sites:
+    - snopes.com
+    - politifact.com
+    - factcheck.org
+    - poynter.org
+  Authoritative news:
+    - reuters.com
+    - bbc.com
+    - apnews.com
+    - nytimes.com
+  Scientific sources:
+    - nature.com
+    - nih.gov
+    - who.int
+    - sciencedirect.com
+  Reference knowledge:
+    - britannica.com
+    - stackexchange.com
+    - un.org
+    - worldbank.org
+
+
   Your output format should be one of the following two formats:
   
   <think>
