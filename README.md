@@ -33,7 +33,7 @@
 <p align="center"> <img src="images/WebFilter.png" id="webfilter-framework">       </p>
 
 ## 🔥News
-- [2025.11.09] 🎉 WebFilter-7B has been accepted to AAAI 2026!
+- [2025.11.9] 🎉 WebFilter-7B has been accepted to AAAI 2026!
 - [2025.8.25] 🎉 WebFilter-7B is now live on [Hugging Face Hub](https://huggingface.co/dayll/WebFilter-7B). 
 - [2025.8.12] 🎉 Our code repository is now open to everyone!  
 - [2025.8.12] 🎉 WebFilter is live on [arXiv](https://arxiv.org/pdf/2508.07956) — check it out!
